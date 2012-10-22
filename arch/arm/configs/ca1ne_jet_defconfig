@@ -1311,6 +1311,11 @@ CONFIG_WCNSS_CORE=y
 # CONFIG_BCM4330B2 is not set
 
 #
+# Wifi part
+#
+CONFIG_PRIMA_WLAN=m
+
+#
 # Enable WiMAX (Networking options) to see the WiMAX drivers
 #
 
